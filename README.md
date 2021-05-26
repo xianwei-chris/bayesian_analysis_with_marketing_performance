@@ -1,2 +1,2 @@
-# bayesian_analysis_with_marketing_performance
+# Bayesian Analysis with Marketing Performance
 Compare ROI between advertising platforms with Bayesian approach
